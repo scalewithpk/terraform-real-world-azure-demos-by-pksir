@@ -1,8 +1,12 @@
 # Terraform Fundamentals – What is Terraform & Why IaC
 
-Mentor: Praveen Kumar Gudla (PKsir)  
-Focus: Azure, DevOps, Terraform, Cloud Engineering  
-Experience: 17+ Years in Industry  
+---
+
+<span style="color:#5B2BBF;"><strong>Mentor:</strong></span> Praveen Kumar Gudla (PKsir)  
+<span style="color:#5B2BBF;"><strong>Focus Areas:</strong></span> Azure | DevOps | Terraform | Cloud Engineering  
+<span style="color:#5B2BBF;"><strong>Industry Experience:</strong></span> 17+ Years  
+
+---
 
 Connect:  
 LinkedIn: https://www.linkedin.com/in/praveengudla  
@@ -255,10 +259,12 @@ Terraform supports multi-cloud and reusable modules.
 
 ---
 
-## PKsir Key Message to Students
-
+<h2 style="color: purple;">PKsir Key Message to Students</h2>
 If you can automate infrastructure,  
 you become more valuable than someone who only works in cloud portal.
 
 Terraform is not just a tool.  
 It is an engineering mindset.
+
+---
+
